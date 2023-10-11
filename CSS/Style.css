@@ -1,0 +1,114 @@
+.head1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.Category{
+    background-color: rgb(235, 233, 233);
+    width: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    padding: 10px;
+    margin: 30px auto;
+    display: inline-block ;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.Category1{
+    margin: auto;
+    width: fit-content ;
+}
+
+.Category2{
+    margin: auto;
+    width: fit-content ;
+}
+.head2{
+    text-align: center;
+    text-decoration: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monitor{
+    background-color: rgb(235, 233, 233);
+    width: 360px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    padding: 10px;
+    margin: 35px auto;
+    display: inline-block ;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.Category3{
+    margin: auto;
+    width: fit-content ;
+}
+.price{
+    text-align: left;
+    color: rgb(248, 144, 17);
+}
+.head3{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.all{
+    text-align: left;
+    color: rgb(248, 144, 17);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.cou{
+    text-align: left;
+    color: rgb(8, 8, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.fees{
+    text-align: left;
+    color: rgb(8, 8, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.stu{
+    text-align: left;
+    color: rgb(59, 59, 59);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+.course{
+    background-color: rgb(235, 233, 233);
+    width: 20%px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    display: inline-block ;
+    text-align: left;
+    padding: 40px;
+    margin: 50px auto;
+    border-radius: 20px;
+    
+
+}
+
+.img{
+    width: 100%;
+    height: 230px;
+    border-radius: 20px;
+}
+
+.course{
+    margin: auto;
+    width: fit-content ;
+    align: center;
+}
